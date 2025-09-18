@@ -14,5 +14,6 @@ Format: `YYYY-MM-DD | Author | Short title`
 - Next: Aqcuire frame from robu.in
 ----
 2025-09-03 | Arnav Venkatesh | Received 3D Frame from robu.in
+
 ----
 2025-09-18 | Arnav Venkatesh | Working on aqcuiring all components
