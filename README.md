@@ -14,7 +14,7 @@ This started as curiosity after watching a video about CubeSats, turned into a s
 
 ---
 ## Personal note
-
+Before this project, I was just a dreamer with an idea to build a CubeSat. And after building it, I still am. This project lasted from May 2025 to May 2026. I cannot fully put into words how much it has taught me and how much it has built my confidence working with electronics and CAD. I had absolutely no clue how a satellite is built just over a year ago, and now one sits proudly in my cupboard. If anybody is thinking of building a CubeSat, I really hope this repo helps. It has all the details to get started — feel free to build on it and learn on your own. There are many AI tools that can help you learn, code, and debug. Be open to new resources and new methods. With all of this, you can have your own satellite on your desk in less than a year!
 
 ---
 
@@ -35,7 +35,7 @@ This started as curiosity after watching a video about CubeSats, turned into a s
 | Attitude sensing (MPU6050) | ✅ Pitch & roll via accelerometer |
 | Web dashboard (camera + telemetry) | ✅ Browser accessible, no laptop needed |
 | Magnetorquer control (L298N, bang-bang) | ✅ Logic working, bench tested |
-| Battery-powered operation | ✅ 12V → 5V buck converter, fully wireless |
+| Battery-powered operation | ✅ 7.5V → 5V buck converter, fully wireless |
 | 1U mechanical frame | ✅ CAD designed, 3D printed |
 | CV payload integration (bench demo) | ✅ ESP32 feed piped into deforestation classifier |
 
