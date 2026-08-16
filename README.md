@@ -1,7 +1,5 @@
 # CubeSat Prototype
 **A low-cost, student-built 1U CubeSat prototype for orbital deforestation monitoring**
-*Built by Arnav Venkatesh — May 2026*
-
 ---
 
 ## What This Is
