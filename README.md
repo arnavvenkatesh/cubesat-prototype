@@ -161,7 +161,7 @@ To run the deforestation detection demo:
 
 ## Publication
 
-A technical review proposing a hybrid magnetorquer attitude control algorithm (combining bang-bang and PD control) was published as part of the research underpinning this project. [Link](https://www.oneyoungindia.com/white-papers/optimizing-cubesatellite-orientation-using-magnetorquers/arnav-venkatesh---nhvps-bangalore)
+A technical review proposing a hybrid magnetorquer attitude control algorithm (combining bang-bang and PD control) was published as part of the research underpinning this project. [Link](https://engrxiv.org/preprint/view/8771)
 
 ---
 
